@@ -1,5 +1,4 @@
-from zope.interface import Interface, Attribute
-# from Product.Product import Product
+from zope.interface import Interface
 
 
 class VendingMachine(Interface):
